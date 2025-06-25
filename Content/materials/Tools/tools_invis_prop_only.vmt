@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Tools/tools_invis001"
+	"%compilenodraw" 1
+	"%compilepassbullets" 1
+}

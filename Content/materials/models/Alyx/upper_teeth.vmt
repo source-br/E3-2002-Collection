@@ -1,0 +1,6 @@
+"Teeth"
+{
+	"$basetexture" "models/Alyx/upper_teeth"
+	"$clientshader" "MouthShader"
+	"$model" 1
+}

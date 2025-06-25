@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Tools/tools_invis001"
+	"%compilenodraw" 1
+	"$translucent" 1
+}
+
+

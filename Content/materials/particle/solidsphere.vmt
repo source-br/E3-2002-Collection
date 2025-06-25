@@ -1,0 +1,12 @@
+"ParticleSphere"
+{
+	"$bumpmap" "particle/SolidSphereNormalMap"
+	"$basetexture" "vgui/white"
+	"Proxies"
+	{
+		"ParticleSphereProxy"
+		{
+			"direction" "0 0 1"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+//"LightmappedGeneric"
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/dirtfloor002a"
+	"$basetexture2" "Nature/dirtfloor009a"
+	"$surfaceprop" "sand"
+}

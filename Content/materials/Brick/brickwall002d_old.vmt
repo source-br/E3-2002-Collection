@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// For maps such as ruins12
+	"$basetexture" "brick/brickwall002d_old"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown,wasteland"
+}

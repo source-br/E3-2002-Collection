@@ -1,0 +1,12 @@
+"ParticleSphere"
+{
+	"$bumpmap" "particle/SphereNormalMap"
+	"$basetexture" "particle/Sphere_DX7"
+	"Proxies"
+	{
+		"ParticleSphereProxy"
+		{
+			"dirlightpos" "0 0 0"
+		}
+	}
+}
